@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lbernar/lbernar/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
